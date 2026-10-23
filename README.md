@@ -17,7 +17,7 @@ brings these projects together around explicit responsibilities and human contro
 - **Understand the ticket format:** [FluxRecord](https://github.com/hamanakam1/fluxrecord)
   describes a standard for evidence-driven coordination.
 - **Browse the public work:** [all public repositories](https://github.com/hamanakam1?tab=repositories)
-  and the project documentation linked below.
+  and the [project atlas source and local preview guide](https://github.com/hamanakam1/hamanakam1.github.io).
 
 ---
 
