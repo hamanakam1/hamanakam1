@@ -16,8 +16,9 @@ brings these projects together around explicit responsibilities and human contro
   focuses on bounded context, ownership, and evidence trails for AI CLI work.
 - **Understand the ticket format:** [FluxRecord](https://github.com/hamanakam1/fluxrecord)
   describes a standard for evidence-driven coordination.
-- **Browse the public work:** [all public repositories](https://github.com/hamanakam1?tab=repositories)
-  and the [project atlas source and local preview guide](https://github.com/hamanakam1/hamanakam1.github.io).
+- **Browse the public work:** [project atlas](https://hamanakam1.github.io/),
+  [all public repositories](https://github.com/hamanakam1?tab=repositories), and the
+  [atlas source and local preview guide](https://github.com/hamanakam1/hamanakam1.github.io).
 
 ---
 
