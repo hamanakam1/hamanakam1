@@ -57,6 +57,8 @@ and setup requirements.
 
 ## Explore and contribute
 
+- For corrections to this profile or its links, see the
+  [profile contribution guide](CONTRIBUTING.md).
 - Start with the relevant project's README for supported workflows and
   installation instructions. Consult its releases before choosing a version.
 - Report bugs and suggest improvements in that project's issue tracker, following
