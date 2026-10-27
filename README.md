@@ -15,8 +15,11 @@ stated rather than assumed.
 | Repo | Role |
 | --- | --- |
 | [**panther-intent-capture**](https://github.com/hamanakam1/panther-intent-capture) | **Capture.** Local-first browser intent capture with visible controls and evidence-linked proposals. Creates tickets; does not execute work. · [site](https://hamanakam1.github.io/panther-intent-capture/) |
+| [**panther-companion**](https://github.com/hamanakam1/panther-companion) | **Synthesize.** A quiet local workspace for understanding evidence in the context of your current goal across panel, browser, and MCP. |
+| [**fluxrecord**](https://github.com/hamanakam1/fluxrecord) | **Standardize the intent.** A ticket standard for local-first, evidence-driven coordination across agent sessions. · [site](https://hamanakam1.github.io/fluxrecord/) |
+| [**el-hidratador**](https://github.com/hamanakam1/el-hidratador) | **Stage & Expand.** Turns dry semantic tickets into wet machine execution state: expanded context, ordered DAGs, and locked sandboxes. |
 | [**taskrivet**](https://github.com/hamanakam1/taskrivet) | **Coordinate.** Purposeful agent work, bounded context, and visible failures. A local-first coordination core for AI CLI sessions. · [site](https://hamanakam1.github.io/taskrivet/) |
-| [**fluxrecord**](https://github.com/hamanakam1/fluxrecord) | **Remember the work.** A ticket standard for local-first, evidence-driven coordination. · [site](https://hamanakam1.github.io/fluxrecord/) |
+| [**osprey**](https://github.com/hamanakam1/osprey) | **Supervise.** Local-first Swift supervisor for Taskrivet: work capture, stream redaction, and rollback-guarded releases. |
 | [**el-verificador**](https://github.com/hamanakam1/el-verificador) | **Verify.** Independent intent verification, guardrailed retry loops, and proof-of-work commits. The gate between "code written" and "code committed". · [site](https://hamanakam1.github.io/el-verificador/) |
 | [**the-chronicler**](https://github.com/hamanakam1/the-chronicler) | **Learn.** The local-first memory core of the factory: extracts failure heuristics via local Ollama and commits hardened rules back to Git. · [site](https://hamanakam1.github.io/the-chronicler/) |
 | [**the-surveyor**](https://github.com/hamanakam1/the-surveyor) | **Observe.** A read-only systems analyst that surveys real hardware into an Open Edge Topology map and narrates what changed. · [site](https://hamanakam1.github.io/the-surveyor/) |
