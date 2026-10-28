@@ -6,7 +6,7 @@ I build developer tools, AI-agent infrastructure, and edge systems around one qu
 
 My projects are intentionally small, composable, and evidence-oriented. They capture intent, stage bounded work, verify results, observe the machine, and keep authority visible instead of hiding it behind automation.
 
-**San Diego, California** · [Project atlas](https://hamanakam1.github.io/) · [EdgeRecord](https://edgerecord.com) · [@sjultra](https://sjultra.com)
+[Project atlas](https://hamanakam1.github.io/) · [EdgeRecord](https://edgerecord.com) · [@sjultra](https://sjultra.com)
 
 > Less repeated context. More accepted work. Visible failures.
 
