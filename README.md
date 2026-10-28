@@ -17,7 +17,7 @@ This is one ecosystem, not a collection of unrelated demos. Public and private d
 <a href="https://hamanakam1.github.io/ecosystem.html">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png">
-    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" height="756" alt="A 14-second tour of the seven Hamanaka Software Factory areas, with selected projects and ways to contribute.">
+    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" alt="A 14-second tour of the seven Hamanaka Software Factory areas, with selected projects and ways to contribute.">
   </picture>
 </a>
 
