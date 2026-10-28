@@ -1,14 +1,18 @@
-# Mike Hamanaka
+# Hamanaka Software Factory
+
+**Mike Hamanaka** · Local-first AI tools, evidence systems and edge experiments
+
+> From intent to reviewable software.
 
 ## One software factory. Many ways to help build it.
 
-I build local-first AI tools, evidence systems and edge experiments. Most of the integration work comes together in [ai-dashboard](https://github.com/hamanakam1/ai-dashboard), my private operator console for agents, inference, work boards, spend and machine health. The surrounding repositories are focused tools, experiments and interfaces into that larger system.
+I'm Mike Hamanaka. **Hamanaka Software Factory** is my workshop for building AI-assisted software with visible evidence and human control. Most of the integration work comes together in [ai-dashboard](https://github.com/hamanakam1/ai-dashboard), my private operator console for agents, inference, work boards, spend and machine health. The surrounding repositories are focused tools, experiments and interfaces into that larger system.
 
 This is one ecosystem, not a collection of unrelated demos. Public and private describe source access; both belong on the map. A private repository link explains its role without distributing its code.
 
-[Explore the whole atlas](https://hamanakam1.github.io/) · [Open the interactive map](https://hamanakam1.github.io/ecosystem.html) · [Propose a contribution](https://github.com/hamanakam1/hamanakam1.github.io/issues/new?template=ecosystem-idea.yml)
+[Explore the Software Factory atlas](https://hamanakam1.github.io/) · [Open the interactive map](https://hamanakam1.github.io/ecosystem.html) · [Propose a contribution](https://github.com/hamanakam1/hamanakam1.github.io/issues/new?template=ecosystem-idea.yml)
 
-## Step onto the factory floor
+## The Hamanaka Software Factory ecosystem
 
 [![Hamanaka Software Factory — explore the compact interactive factory floor](https://hamanakam1.github.io/assets/factory-preview.svg)](https://hamanakam1.github.io/ecosystem.html)
 
@@ -113,8 +117,8 @@ You do not need access to the private factory to contribute. Pick a public tool,
 
 Start in the relevant public repository's issues, or [open an ecosystem idea](https://github.com/hamanakam1/hamanakam1.github.io/issues/new?template=ecosystem-idea.yml) when the connection spans projects or touches a private component. The atlas gives each repository a more specific contribution idea. Check the project's license and contribution guidance before coding; invitations are not pre-approved integration commitments.
 
-## How I want the system to work
+## The Software Factory approach
 
 Local tools, visible evidence and human control. Intent is reviewed before execution; completed sessions are distinct from accepted outcomes. Interfaces should explain failures, preserve provenance and make recovery possible. Use synthetic examples in public discussions, rather than credentials or private operational data.
 
-[Project atlas](https://hamanakam1.github.io/) · [EdgeRecord](https://edgerecord.com) · [@sjultra](https://sjultra.com)
+**Hamanaka Software Factory** · [Project atlas](https://hamanakam1.github.io/) · [EdgeRecord](https://edgerecord.com) · [@sjultra](https://sjultra.com)
