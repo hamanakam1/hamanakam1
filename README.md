@@ -21,9 +21,9 @@ This is one ecosystem, not a collection of unrelated demos. Public and private d
   </picture>
 </a>
 
-[Explore at your own pace](https://hamanakam1.github.io/ecosystem.html) · [Still preview](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Full repository role map](https://hamanakam1.github.io/assets/ecosystem-map.svg)
+[Explore at your own pace](https://hamanakam1.github.io/ecosystem.html) · [Still preview](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Compact factory card](https://hamanakam1.github.io/assets/factory-preview.svg) · [Full repository role map](https://hamanakam1.github.io/assets/ecosystem-map.svg)
 
-The map contains all 32 repositories in the 28 October 2026 inventory. Branches group responsibilities; they do not assert that every experiment has a deployed adapter. I describe AI Dashboard as the integration hub. Each project's source and release notes establish its individual implementation and maturity.
+The map contains all 32 repositories in the 28 October 2026 inventory. Areas group responsibilities; they do not assert that every experiment has a deployed adapter. I describe AI Dashboard as the integration hub. Each project's source and release notes establish its individual implementation and maturity.
 
 The 14-second preview follows the explorer's seven-stop tour. Open the interactive map to select an area, search projects, filter source access and inspect contribution ideas. Public tools can improve independently; I can evaluate integration into the broader system later.
 
