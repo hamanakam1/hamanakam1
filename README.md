@@ -14,13 +14,18 @@ This is one ecosystem, not a collection of unrelated demos. Public and private d
 
 ## The Hamanaka Software Factory ecosystem
 
-[![Hamanaka Software Factory — explore the compact interactive factory floor](https://hamanakam1.github.io/assets/factory-preview.svg)](https://hamanakam1.github.io/ecosystem.html)
+<a href="https://hamanakam1.github.io/ecosystem.html">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png">
+    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" alt="A 14-second tour of the seven Hamanaka Software Factory areas, with selected projects and ways to contribute.">
+  </picture>
+</a>
+
+[Explore at your own pace](https://hamanakam1.github.io/ecosystem.html) · [Still preview](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Compact factory card](https://hamanakam1.github.io/assets/factory-preview.svg) · [Full repository role map](https://hamanakam1.github.io/assets/ecosystem-map.svg)
 
 The map contains all 32 repositories in the 28 October 2026 inventory. Areas group responsibilities; they do not assert that every experiment has a deployed adapter. I describe AI Dashboard as the integration hub. Each project's source and release notes establish its individual implementation and maturity.
 
-**[Enter the interactive factory →](https://hamanakam1.github.io/ecosystem.html)** Search the workshop, inspect a project, or take the guided tour. The compact preview works here on GitHub; the interactive controls open on the factory site.
-
-Public tools can improve independently; I can evaluate integration into the broader system later.
+The 14-second preview follows the explorer's seven-stop tour. Open the interactive map to select an area, search projects, filter source access and inspect contribution ideas. Public tools can improve independently; I can evaluate integration into the broader system later.
 
 ## The factory core
 
