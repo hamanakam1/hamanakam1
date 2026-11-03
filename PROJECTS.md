@@ -1,6 +1,6 @@
 # Project directory
 
-**26 public repositories, organized by the work they help you evaluate.** Reviewed 2 November 2026. Each entry links to its repository and the README revision used for the description. The three upstream forks are grouped and credited separately.
+**26 public repositories, organized by the work they help you evaluate.** Reviewed 2 November 2026. Software entries link to the README revision used for the description; this profile links to its current README. The three upstream forks are grouped and credited separately.
 
 [Services & selected work](https://hamanakam1.github.io/) · [Software gallery](https://hamanakam1.github.io/#selected-work) · [Discuss a paid project](https://www.linkedin.com/in/hamanaka/)
 
@@ -88,8 +88,8 @@ For the services, selected examples and contact route behind this directory.
 
 | Repository | Useful for | Current state & evidence |
 | --- | --- | --- |
-| [hamanakam1](https://github.com/hamanakam1/hamanakam1) | Start a project or hiring conversation and find selected engineering work. | GitHub profile and this public directory. [README](https://github.com/hamanakam1/hamanakam1/blob/d2bff2563812857045653f23b40bcdd3e2ad4b7a/README.md). |
-| [hamanakam1.github.io](https://github.com/hamanakam1/hamanakam1.github.io) | Inspect software captures, scoped services, diagrams and the searchable repository atlas. | Static portfolio; project-specific maturity is labelled. [README](https://github.com/hamanakam1/hamanakam1.github.io/blob/e7ebe177bd8738edefee75ea42b9cfda6b581bc1/README.md). |
+| [hamanakam1](https://github.com/hamanakam1/hamanakam1) | Start a project or hiring conversation and find selected engineering work. | GitHub profile and this public directory. [README](README.md). |
+| [hamanakam1.github.io](https://github.com/hamanakam1/hamanakam1.github.io) | Inspect software captures, scoped services, diagrams and the searchable repository atlas. | Static portfolio; project-specific maturity is labelled. [README](https://github.com/hamanakam1/hamanakam1.github.io/blob/549098d56def24511d7b941da31ce5c6875f3df9/README.md). |
 
 ## From an example to useful work
 

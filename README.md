@@ -10,8 +10,8 @@ I build software that makes repeated work easier to manage, inspect, and improve
 
 <a href="https://hamanakam1.github.io/#selected-work">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png">
-    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" alt="A tour through seven actual software captures: Taskrivet, Panther, MeterMouseGarden, El Verificador, fluxrecord, LineasFlows and Murmuration. Chapter close-ups connect workflow tooling, local systems and creative browser software; demo and fixture data are labelled.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png?v=20261102-film2">
+    <img src="https://hamanakam1.github.io/assets/factory-tour.gif?v=20261102-film2" width="1120" alt="A tour through seven actual software captures: Taskrivet, Panther, MeterMouseGarden, El Verificador, fluxrecord, LineasFlows and Murmuration. Chapter close-ups connect workflow tooling, local systems and creative browser software; demo and fixture data are labelled.">
   </picture>
 </a>
 
