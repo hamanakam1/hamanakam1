@@ -1,6 +1,6 @@
 # Project directory
 
-**26 public repositories, organized by the work they help you evaluate.** Reviewed 2 November 2026. Software entries link to the README revision used for the description; this profile links to its current README. The three upstream forks are grouped and credited separately.
+**23 public repositories, organized by the work they help you evaluate.** This directory is the public-source portion of a curated 39-project portfolio, with 16 additional private summaries in the atlas. Forks and client-specific workspaces are excluded. Selection checked 3 November 2026; existing descriptions retain their cited review revisions. Software entries link to the README revision used for the description; this profile links to its current README.
 
 [Services & selected work](https://hamanakam1.github.io/) · [Software gallery](https://hamanakam1.github.io/#selected-work) · [Discuss a paid project](https://www.linkedin.com/in/hamanaka/)
 
@@ -71,16 +71,6 @@ For reproducible demos, workflow tests and offline CRM rehearsals.
 | --- | --- | --- |
 | [mockmill](https://github.com/hamanakam1/mockmill) | Generate coherent fictional business histories and offline CRM import fixtures. | Deterministic synthetic data; adapters do not perform live CRM imports. [README](https://github.com/hamanakam1/mockmill/blob/d251c81756eadda08fb2884ea379c5342efffe18/README.md). |
 | [storyfoundry-public-fixture](https://github.com/hamanakam1/storyfoundry-public-fixture) | Use a fictional service-company dataset and offline generator for workflow rehearsals. | Synthetic fixtures; identities, transactions and outcomes are fictional. [README](https://github.com/hamanakam1/storyfoundry-public-fixture/blob/38b216f0f8b0d780da3e2e0779b2460e4ec3f519/README.md). |
-
-## Upstream tools and forks
-
-These are forks of other authors’ projects. Original authorship and licenses remain with the upstream projects; this directory identifies them explicitly.
-
-| Repository | Useful for | Current state & evidence |
-| --- | --- | --- |
-| [archify](https://github.com/hamanakam1/archify) | Create interactive technical diagrams through an agent skill. | Upstream project; this repository is a fork. Upstream: [tt-a1i/archify](https://github.com/tt-a1i/archify). [README](https://github.com/hamanakam1/archify/blob/25cf37080fc8b1dbe758a4efc3935b55f3327083/README.md). |
-| [node-pty](https://github.com/hamanakam1/node-pty) | Use pseudoterminal bindings across Node.js desktop and terminal tooling. | Upstream library; this repository is a fork. Upstream: [microsoft/node-pty](https://github.com/microsoft/node-pty). [README](https://github.com/hamanakam1/node-pty/blob/3d2987da008509ead5a89dcf7285ac469afe0d28/README.md). |
-| [wad-sbx-workshop](https://github.com/hamanakam1/wad-sbx-workshop) | Learn sandboxed agent workflows; this fork adds a field guide, how-to layer and host connectors. | Upstream workshop with separately described fork additions. Upstream: [shelajev/wad-sbx-workshop](https://github.com/shelajev/wad-sbx-workshop). [README](https://github.com/hamanakam1/wad-sbx-workshop/blob/400d4ee91b1f4d05009486e41ccbff71eff150f3/README.md). |
 
 ## Portfolio and contact
 
