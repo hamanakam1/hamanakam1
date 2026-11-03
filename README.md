@@ -1,52 +1,59 @@
 # Mike Hamanaka
 
-**AI workflow tooling, local applications, and software you can review.**
+**AI workflows · Internal tools · Local software systems**
 
-I build tools that turn messy workflows into clear, usable software. Hamanaka Software Factory is my independent workshop for agent workspaces, browser capture, evidence records, and local systems.
+I build software that makes repeated work easier to manage, inspect, and improve. Through **Hamanaka Software Factory**, I turn workflow problems into focused tools, usable interfaces, and clear engineering handoffs.
 
 **Available for consulting, contract engineering, and the right full-time role.**
 
-[Discuss a project on LinkedIn](https://www.linkedin.com/in/hamanaka/) · [Selected work & services](https://hamanakam1.github.io/work.html) · [Explore the factory](https://hamanakam1.github.io/ecosystem.html)
+[Discuss a project](https://www.linkedin.com/in/hamanaka/) · [Services & selected work](https://hamanakam1.github.io/) · [Browse my projects](PROJECTS.md)
 
-<a href="https://hamanakam1.github.io/work.html#selected-work">
+<a href="https://hamanakam1.github.io/#selected-work">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png">
-    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" alt="Six published software captures: Taskrivet, Panther, MeterMouseGarden, El Verificador, fluxrecord and LineasFlows. Each frame identifies demo, fixture, or experimental evidence.">
+    <img src="https://hamanakam1.github.io/assets/factory-tour.gif" width="1120" alt="A tour through seven actual software captures: Taskrivet, Panther, MeterMouseGarden, El Verificador, fluxrecord, LineasFlows and Murmuration. Chapter close-ups connect workflow tooling, local systems and creative browser software; demo and fixture data are labelled.">
   </picture>
 </a>
 
-[View the still image](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Inspect screenshots and sources](https://hamanakam1.github.io/work.html#selected-work)
+[View the still](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Open the software gallery and source captures](https://hamanakam1.github.io/#selected-work)
 
 ## Work I can help with
 
-| Your problem | A useful engagement |
+| What you need | What we can build |
 | --- | --- |
-| AI coding work loses context or is difficult to review | Map the workflow, implement one bounded improvement, and check the result. |
-| You need an internal tool, operator dashboard, or product prototype | Build a focused working slice with explicit assumptions and a handoff guide. |
-| Local tools or services need to exchange data reliably | Scope an adapter with clear permissions, failure handling, and acceptance checks. |
+| AI work that keeps context and is easier to review | A focused workflow improvement, with clear inputs, visible progress and acceptance checks. |
+| A useful internal tool or product prototype | A working slice that tests the idea, plus setup instructions and a handoff guide. |
+| Local tools and services that work together | A scoped integration with explicit permissions, failure handling and recovery behavior. |
 
-Start with one recurring bottleneck. We can agree on paid discovery, define the scope, and decide whether implementation makes sense.
+Start with one recurring bottleneck. We can agree on **paid discovery**, define a useful deliverable, and decide on the implementation scope.
 
-## Selected engineering work
+## Selected work
 
-| Project | What it shows | Current boundary |
+| Project | Engineering focus | Start here |
 | --- | --- | --- |
-| [Taskrivet](https://github.com/hamanakam1/taskrivet) | Persistent agent terminals, bounded task context, and review records. | Desktop alpha; the published workspace uses synthetic task data. |
-| [Panther Intent Capture](https://github.com/hamanakam1/panther-intent-capture) | Chosen browser capture and evidence-linked requests. | Creates requests; execution is separate. |
-| [fluxrecord](https://github.com/hamanakam1/fluxrecord) + [El Verificador](https://github.com/hamanakam1/el-verificador) | Work records, independent checks, and actionable failures. | Demonstrable tools; complete cross-repository integration is not established. |
-| [MeterMouseGarden](https://github.com/hamanakam1/meter-mouse-garden) | A readable AI usage interface and local Rust/SQLite work. | Prototype dashboard uses fixtures. |
-| [MockMill](https://github.com/hamanakam1/mockmill) | Reproducible fictional business records and offline CRM adapter fixtures. | Synthetic data; no live CRM import or real customer outcomes. |
+| [Taskrivet](https://github.com/hamanakam1/taskrivet) | Persistent agent terminals and reviewable task context. Desktop alpha. | [Workspace capture](https://hamanakam1.github.io/assets/work/taskrivet.png) |
+| [Panther Intent Capture](https://github.com/hamanakam1/panther-intent-capture) | Turn selected browser activity into evidence-linked improvement requests. | [Project guide](https://hamanakam1.github.io/panther-intent-capture/) |
+| [Counterfactory](https://github.com/hamanakam1/counterfactory) | Executable models of lost acknowledgements and duplicate work. Research preview. | [Run the failure model](https://github.com/hamanakam1/counterfactory#three-minutes-to-a-counterexample) |
+| [MeterMouseGarden](https://github.com/hamanakam1/meter-mouse-garden) | AI usage interface with a local Rust/SQLite foundation. Fixture-backed prototype. | [Explore the interface](https://hamanakam1.github.io/meter-mouse-garden/) |
+| [MockMill](https://github.com/hamanakam1/mockmill) | Coherent fictional business records and offline CRM fixtures. | [Inspect a sample](https://github.com/hamanakam1/mockmill/tree/main/examples/service-company) |
+| [Murmuration](https://github.com/hamanakam1/murmuration) | Interactive browser simulation with Canvas 2D, WebGL and saved-state validation. | [Play in the browser](https://hamanakam1.github.io/murmuration/) |
 
 ## How the work fits together
 
-[Factory roles and proposed handoffs](https://hamanakam1.github.io/diagrams/factory-roles.html) · [A local systems pattern](https://hamanakam1.github.io/diagrams/local-systems.html) · [Proposed engagement process](https://hamanakam1.github.io/diagrams/client-engagement.html)
+Capture a problem, prepare useful context, make a bounded change, check the result, and review the evidence. These responsibilities shape the tools I build.
 
-The factory organizes capture, bounded work, independent checking, and human review. The diagrams distinguish documented project roles from proposed handoffs. Each repository explains its own implementation and maturity.
+<a href="https://hamanakam1.github.io/diagrams/factory-roles.html"><img src="https://hamanakam1.github.io/assets/work/factory-roles-preview.png" width="640" alt="Factory project roles: browser capture, bounded work, independent checks and human review. Dashed handoffs are proposed integrations."></a>
 
-The 2 November 2026 owned inventory contains **41 repositories: 24 public and 17 private**, including three public upstream forks. [Browse the searchable public workshop](https://hamanakam1.github.io/work.html#inventory) or [explore all repository roles](https://hamanakam1.github.io/ecosystem.html). Forks remain credited to their upstream authors.
+[Explore project roles](https://hamanakam1.github.io/diagrams/factory-roles.html) · [Local systems pattern](https://hamanakam1.github.io/diagrams/local-systems.html) · [How an engagement works](https://hamanakam1.github.io/diagrams/client-engagement.html)
+
+The diagrams distinguish documented responsibilities from proposed handoffs. Each repository explains its current implementation and maturity.
+
+[**All 26 public repositories, organized by purpose →**](PROJECTS.md) · [Search the portfolio](https://hamanakam1.github.io/#inventory) · [Explore the complete role map](https://hamanakam1.github.io/ecosystem.html)
+
+The 2 November 2026 owner inventory contains **43 repositories: 26 public and 17 private**. Three public repositories are attributed upstream forks.
 
 ## Work with me
 
 Send the problem, the tools involved, and what a useful result would look like. If you are hiring, send the role and working arrangement.
 
-**[Message Mike on LinkedIn](https://www.linkedin.com/in/hamanaka/)** · [Selected work](https://hamanakam1.github.io/work.html)
+**[Message Mike on LinkedIn](https://www.linkedin.com/in/hamanaka/)** · [Services & contact](https://hamanakam1.github.io/#contact)
