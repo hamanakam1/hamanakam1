@@ -1,21 +1,23 @@
 # Mike Hamanaka
 
-**AI workflows · Internal tools · Local software systems**
+**AI-assisted prototypes · Workflow tools · Local software systems**
 
-I build software that makes repeated work easier to manage, inspect, and improve. Through **Hamanaka Software Factory**, I turn workflow problems into focused tools, usable interfaces, and clear engineering handoffs.
+I build prototypes and workflow tools with AI. My main project is **AI Dashboard**, a local command center I use in my own work. **Hamanaka Software Factory** brings that work together: define a problem, build a useful piece, check it, and review the result.
 
-**Available for consulting, contract engineering, and the right full-time role.**
+**Available for small paid projects, contract work, and a suitable full-time role.**
 
 [Discuss a project](https://www.linkedin.com/in/hamanaka/) · [Services & selected work](https://hamanakam1.github.io/) · [Browse my projects](PROJECTS.md)
 
-<a href="https://hamanakam1.github.io/#selected-work">
+<a href="https://hamanakam1.github.io/factory.html">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-tour-still.png?v=20261102-film2">
-    <img src="https://hamanakam1.github.io/assets/factory-tour.gif?v=20261102-film2" width="1120" alt="A tour through seven actual software captures: Taskrivet, Panther, MeterMouseGarden, El Verificador, fluxrecord, LineasFlows and Murmuration. Chapter close-ups connect workflow tooling, local systems and creative browser software; demo and fixture data are labelled.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://hamanakam1.github.io/assets/factory-process-v3-still.png">
+    <img src="https://hamanakam1.github.io/assets/factory-process-v3.gif" width="1120" alt="Animated Software Factory tour featuring AI Dashboard, task preparation, building, checks and review. The linked gallery contains 39 individual animated project workflows. Conceptual illustrations; private projects use public descriptions.">
   </picture>
 </a>
 
-[View the still](https://hamanakam1.github.io/assets/factory-tour-still.png) · [Open the software gallery and source captures](https://hamanakam1.github.io/#selected-work)
+[**Explore all 39 animated project workflows →**](https://hamanakam1.github.io/factory.html) · [View the still](https://hamanakam1.github.io/assets/factory-process-v3-still.png) · [Actual software screenshots](https://hamanakam1.github.io/#selected-work)
+
+Each project has a short animated loop showing input, processing, and output. They are conceptual views, with source links and maturity notes in the gallery.
 
 ## Work I can help with
 
@@ -29,7 +31,7 @@ Start with one recurring bottleneck. We can agree on **paid discovery**, define 
 
 ## Selected work
 
-| Project | Engineering focus | Start here |
+| Project | What it does | Start here |
 | --- | --- | --- |
 | [Taskrivet](https://github.com/hamanakam1/taskrivet) | Persistent agent terminals and reviewable task context. Desktop alpha. | [Workspace capture](https://hamanakam1.github.io/assets/work/taskrivet.png) |
 | [Panther Intent Capture](https://github.com/hamanakam1/panther-intent-capture) | Turn selected browser activity into evidence-linked improvement requests. | [Project guide](https://hamanakam1.github.io/panther-intent-capture/) |
@@ -40,7 +42,11 @@ Start with one recurring bottleneck. We can agree on **paid discovery**, define 
 
 ## How the work fits together
 
-Capture a problem, prepare useful context, make a bounded change, check the result, and review the evidence. These responsibilities shape the tools I build.
+**Define → Build with AI → Check → Human review → Share / demo.** If a check fails or the review needs changes, revise the work and check again.
+
+[Explore the factory workflow and revision loop](https://hamanakam1.github.io/diagrams/factory-flow.html) · [Follow an individual project](https://hamanakam1.github.io/factory.html#projects)
+
+This is the process I aim to follow, not a claim that every repository is integrated or ready for production. The tools below have complementary roles.
 
 <a href="https://hamanakam1.github.io/diagrams/factory-roles.html"><img src="https://hamanakam1.github.io/assets/work/factory-roles-preview.png" width="640" alt="Factory project roles: browser capture, bounded work, independent checks and human review. Dashed handoffs are proposed integrations."></a>
 
@@ -48,9 +54,9 @@ Capture a problem, prepare useful context, make a bounded change, check the resu
 
 The diagrams distinguish documented responsibilities from proposed handoffs. Each repository explains its current implementation and maturity.
 
-[**All 26 public repositories, organized by purpose →**](PROJECTS.md) · [Search the portfolio](https://hamanakam1.github.io/#inventory) · [Explore the complete role map](https://hamanakam1.github.io/ecosystem.html)
+[**All 23 public repositories, organized by purpose →**](PROJECTS.md) · [Search the portfolio](https://hamanakam1.github.io/#inventory) · [Explore the complete role map](https://hamanakam1.github.io/ecosystem.html)
 
-The 2 November 2026 owner inventory contains **43 repositories: 26 public and 17 private**. Three public repositories are attributed upstream forks.
+The 3 November 2026 portfolio selection contains **39 projects: 23 public and 16 private**. Private concepts use already-public descriptions; forks and client-specific workspaces are excluded.
 
 ## Work with me
 
